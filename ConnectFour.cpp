@@ -1,5 +1,5 @@
-/* Benjamin Charles & Noah Krause 
-   Final Project - CS368
+/* Benjamin Charles
+   Interactive Connect Four
     5/4/17
 */
 #include <iostream>
